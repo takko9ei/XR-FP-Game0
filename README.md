@@ -15,6 +15,7 @@ Players step into an immersive experience within their own physical space, where
 * **Device Compatibility:** Fully compatible with **Meta Quest 3** and **Meta Quest Pro**.
 * **Boundary System:** Players can define their activity zone within the room. Enemies, weapons, and essential items will automatically spawn within this defined boundary.
 * **Dynamic Spawning:** Automatic spawning of enemies, weapons, and items keeps the gameplay challenging and unpredictable.
+* **Styleized Shader:** Implemented custom "Phisical based cartoon shader", with manga shadow effect stuffs.
 
 ## Technical Breakdown
 
