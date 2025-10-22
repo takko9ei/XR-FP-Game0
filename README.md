@@ -10,7 +10,8 @@ You can ask ZRead about this project, by clicking [![zread](https://img.shields.
 
 ## Project Summary: Multiplayer XR Combat Game
 
-This project is a fully-developed **Multiplayer Mixed Reality (MR) game** built for an XR (Extended Reality) platform.
+This project is a fully-developed **Multiplayer Mixed Reality (MR) game** built for an XR (Extended Reality) platform, during time in university.
+Development prioritized core functionality over architectural optimization, due to the compressed timeline.
 
 ### Key Highlights & Developer Contribution
 
